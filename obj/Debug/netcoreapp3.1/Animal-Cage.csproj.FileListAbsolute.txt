@@ -1,0 +1,13 @@
+C:\Coding\C#\Generics\Animal-Cage\bin\Debug\netcoreapp3.1\Animal-Cage.exe
+C:\Coding\C#\Generics\Animal-Cage\bin\Debug\netcoreapp3.1\Animal-Cage.deps.json
+C:\Coding\C#\Generics\Animal-Cage\bin\Debug\netcoreapp3.1\Animal-Cage.runtimeconfig.json
+C:\Coding\C#\Generics\Animal-Cage\bin\Debug\netcoreapp3.1\Animal-Cage.runtimeconfig.dev.json
+C:\Coding\C#\Generics\Animal-Cage\bin\Debug\netcoreapp3.1\Animal-Cage.dll
+C:\Coding\C#\Generics\Animal-Cage\bin\Debug\netcoreapp3.1\Animal-Cage.pdb
+C:\Coding\C#\Generics\Animal-Cage\obj\Debug\netcoreapp3.1\Animal-Cage.csprojAssemblyReference.cache
+C:\Coding\C#\Generics\Animal-Cage\obj\Debug\netcoreapp3.1\Animal-Cage.AssemblyInfoInputs.cache
+C:\Coding\C#\Generics\Animal-Cage\obj\Debug\netcoreapp3.1\Animal-Cage.AssemblyInfo.cs
+C:\Coding\C#\Generics\Animal-Cage\obj\Debug\netcoreapp3.1\Animal-Cage.csproj.CoreCompileInputs.cache
+C:\Coding\C#\Generics\Animal-Cage\obj\Debug\netcoreapp3.1\Animal-Cage.dll
+C:\Coding\C#\Generics\Animal-Cage\obj\Debug\netcoreapp3.1\Animal-Cage.pdb
+C:\Coding\C#\Generics\Animal-Cage\obj\Debug\netcoreapp3.1\Animal-Cage.genruntimeconfig.cache
